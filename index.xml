@@ -17,9 +17,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>OkraHealth, under the MIT License, provides interpretable health analytics for any software using Git version control. Software development is often a complex task which is dependent on the health of additional software libraries. Understanding the health of our software and its dependencies has implications for maintainability, cost, and security.
+OkraHealth makes use of a variety of open source projects including:
+ Django Rest Framework Pandas Protocol Buffers SQLAlchemy  OkraHealth is ideal for software developers, cyber security professionals, and businesses seeking to better understand their software.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/documentation/</guid>
+      <description>Documentation for OkraHealth is available using the following links:
+ [Okra-API]()  RESTful API for consuming Okra software health analytics  Okra-Core  Library used for generating health analytics and data pipeline   </description>
     </item>
     
     <item>
