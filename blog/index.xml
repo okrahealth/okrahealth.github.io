@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on OkraHealth</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on OkraHealth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2019 12:24:47 +0100</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Origin of OkraHealth and Pre-Alpha Release</title>
+      <link>/blog/starting/</link>
+      <pubDate>Thu, 23 May 2019 12:24:47 +0100</pubDate>
+      
+      <guid>/blog/starting/</guid>
+      <description>OkraHealth came out of a project-based course I took while finishing my MS in Data Science at Northeastern University. DS 6050 - Expeditions in Data Science was being piloted as an alternative to the core capstone class DS 5500, Information Visualization, in Spring 2019 only. The DS 6050 course encouraged students to solve real-world data science problems by applying the skills they obtained in previous classes of their Data Science program.</description>
+    </item>
+    
+  </channel>
+</rss>
